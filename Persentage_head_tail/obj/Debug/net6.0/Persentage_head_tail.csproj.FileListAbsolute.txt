@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\bin\Debug\net6.0\Persentage_head_tail.exe
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\bin\Debug\net6.0\Persentage_head_tail.deps.json
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\bin\Debug\net6.0\Persentage_head_tail.runtimeconfig.json
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\bin\Debug\net6.0\Persentage_head_tail.dll
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\bin\Debug\net6.0\Persentage_head_tail.pdb
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.AssemblyInfo.cs
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.dll
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\refint\Persentage_head_tail.dll
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.pdb
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\Persentage_head_tail.genruntimeconfig.cache
+C:\Users\user\source\repos\Persentage_head_tail\Persentage_head_tail\obj\Debug\net6.0\ref\Persentage_head_tail.dll
